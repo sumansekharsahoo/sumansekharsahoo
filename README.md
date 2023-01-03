@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Suman Sekhar Sahoo
 - 👀 I’m very passionate about learning new technologies
 - 🌱 I’m currently learning Java and ReactJS
--
 
 <!---
 sumansekharsahoo/sumansekharsahoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
