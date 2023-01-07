@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suman Sekhar Sahoo
-- 👀 I’m very passionate about learning new technologies
+- 👀 I’m very passionate to learn new technologies
 - 🌱 I’m currently learning Java and ReactJS
 
 <!---
